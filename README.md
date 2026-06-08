@@ -1,8 +1,6 @@
 # 💫 About Me:
 I am a BI & Data Engineer with 4 years of hands-on experience, passionate about harnessing the power of data to drive meaningful change. I specialize in transforming raw data into valuable insights that empower companies to make impactful, informed decisions. My work sits at the intersection of technology and strategy — where data doesn't just tell a story, but steers the direction of a business forward.<br><br>
 
-I am deeply fascinated by spatial data and satellite technology from how data travels across space to the pipelines, archives, and systems that store it at scale. Always exploring where cutting-edge technology meets data engineering at a global level.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/parvez-g) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gparvez21@gmail.com) 
